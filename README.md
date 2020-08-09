@@ -7,8 +7,6 @@
 
 ### Languages and tools
 
-<br/>
-
 <img align="left" alt="Kotlin" height="38px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"/> 
 <img align="left" alt="Java" height="38px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/> 
 <img align="left" alt="Python" height="38px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -20,7 +18,6 @@
 <img align="left" alt="BASH" height="38px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"/> 
 <img align="left" alt="Terminal" height="38px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"/> 
 
-<br/>
 <br/>
 
 ### Github Stats
