@@ -22,7 +22,7 @@
 
 ### Github Stats
 
-![My stats](https://github-readme-stats.vercel.app/api?username=gregory-mironov&show_icons=true)
+![My stats](https://github-readme-stats.vercel.app/api?username=migregal&show_icons=true)
 
 [linkedin]:https://www.linkedin.com/in/grigorii-mironov/
 [email]:mailto:devgregorymironov@gmail.com
