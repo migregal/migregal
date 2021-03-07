@@ -2,7 +2,6 @@
 
 [<img align="left" alt="LinkedIn" width="22px" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 [<img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg"/>][email]
-[<img align="left" alt="Mail" width="22px" src="https://camo.githubusercontent.com/f9eaf70422bdefe0a0febff74ea15569557918e6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f69636c6f75642e737667"/>][website]
 
 <br/>
 
