@@ -26,4 +26,3 @@
 
 [linkedin]:https://www.linkedin.com/in/grigorii-mironov/
 [email]:mailto:devgregorymironov@gmail.com
-[website]:https://gregory-mironov.github.io/
