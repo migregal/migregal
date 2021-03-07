@@ -24,5 +24,5 @@
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=migregal&show_icons=true)
 
-[linkedin]:https://www.linkedin.com/in/grigorii-mironov/
+[linkedin]:https://www.linkedin.com/in/migregal/
 [email]:mailto:devgregorymironov@gmail.com
