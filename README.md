@@ -22,7 +22,7 @@
 
 ### Github Stats
 
-![My stats](https://github-readme-stats.vercel.app/api?username=migregal&count_private=true&show_icons=true&theme=dark)
+![My stats](https://github-readme-stats.vercel.app/api?username=migregal&count_private=true&show_icons=true&theme=dracula)
 
 [linkedin]:https://www.linkedin.com/in/migregal/
 [email]:mailto:devgregorymironov@gmail.com
