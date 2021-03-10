@@ -8,8 +8,9 @@
 <br/>
 <br/>
 
-![migregal's stats](https://github-readme-stats.vercel.app/api?username=migregal&count_private=true&show_icons=true&theme=dracula)
+<a href="https://github.com/jstrieb/github-stats">
 
-<br/>
+![](https://github.com/migregal/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/migregal/github-stats/blob/master/generated/languages.svg)
 
-[![migregal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=migregal&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+</a>
