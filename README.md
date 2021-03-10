@@ -5,13 +5,11 @@
 
 <br/>
 
-### Github Stats
-
 ![migregal's stats](https://github-readme-stats.vercel.app/api?username=migregal&count_private=true&show_icons=true&theme=dracula)
 
 [linkedin]:https://www.linkedin.com/in/migregal/
 [email]:mailto:devgregorymironov@gmail.com
 
-### Wakatime Stats
+<br/>
 
 [![migregal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=migregal&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
