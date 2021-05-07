@@ -12,7 +12,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=migregal&" alt="p01n73r" />
 </p>
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languages and Tools :</h3>
 
 <p align="left"> 
   <a href="https://kotlinlang.org/" target="_blank"> 
@@ -40,8 +40,6 @@
   </a>
 </p>
 
-<h3 align="left">Tools: </h3>
-
 <p align="left"> 
   <a href="https://www.docker.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
@@ -50,11 +48,7 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> 
   </a>
-</p>
 
-<h3 align="left">Databases :</h3>
-
-<p align="left"> 
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>
   </a>
