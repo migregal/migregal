@@ -6,7 +6,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
 
-I am a backend developer at `VK`.
+I am a backend developer at [VK](https://vk.com/about).
 
 <h3 align="left">Github Stats </h3>
 
