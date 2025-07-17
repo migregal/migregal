@@ -1,4 +1,4 @@
-### Hi there, I'm Gregory Mironov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Grigory Mironov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/migregal)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/migregal)
@@ -6,7 +6,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=migregal.migregal)
 
-I am a backend developer at [VK](https://vk.com/about).
+I am a backend developer at [Ozon.Tech](https://tech.ozon.ru/).
 
 <h3 align="left">Github Stats </h3>
 
